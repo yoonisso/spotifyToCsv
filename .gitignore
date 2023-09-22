@@ -25,3 +25,15 @@ replay_pid*
 
 # configuration files
 config.properties
+
+# maven
+/target/
+
+# data files
+output.csv
+
+# VS Code
+.vscode
+
+# Mac
+.DS_Store
